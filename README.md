@@ -37,3 +37,4 @@ Upload `app.py`, `requirements.txt`, `README.md`, `PLANNING.md`, `TESTING_PLAN.m
 
 ## Limitations and safety
 This is an educational prototype, not a medical device. The profile screen is not secure password authentication. It does not send alarms or notifications and does not provide medical advice. Do not enter sensitive medical information. The weekly score reflects only the records entered in the app. Local SQLite storage may not persist across cloud redeployments.
+Link of the app:https://medtimer-45yo62xojjmutve4hbka7y.streamlit.app/
